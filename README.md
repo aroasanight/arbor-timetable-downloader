@@ -16,8 +16,12 @@ For this repo specifically, I do not intend to rewrite it, since I no longer hav
 \- Ari (aroasanight)
 
 
+---
+
+
 # Arbor Timetable Downloader
 
 This script is used to export timetables from Arbor to .ics files, from an unprivileged student account by pulling the events from the web requests when accessing the timetable on the Arbor web app.
 
 Most likely won't work for much longer, or already be broken - as soon as Arbor make a slight change to their API this script becomes useless.
+
