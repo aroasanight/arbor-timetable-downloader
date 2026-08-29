@@ -22,8 +22,8 @@ from datetime import datetime, date, timedelta
 import requests
 
 # ── School constants ──────────────────────────────────────────────────────────
-SCHOOL_HOST = "anthony-gell-school.uk.arbor.sc"
-STUDENT_ID  = 1525   # from your calendar URL — change if logging in as someone else
+SCHOOL_HOST = "replace-with.your-school.url"
+STUDENT_ID  = 1234   # from your calendar URL — change if logging in as someone else
 
 # Tooltip requests are made one at a time; be polite to the server
 TOOLTIP_DELAY = 0.15  # seconds between tooltip calls
